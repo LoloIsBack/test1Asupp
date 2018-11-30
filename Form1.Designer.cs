@@ -48,7 +48,7 @@
             this.CbActions.Name = "CbActions";
             this.CbActions.Size = new System.Drawing.Size(634, 24);
             this.CbActions.TabIndex = 2;
-            this.CbActions.Text = "Select me !!!";
+            this.CbActions.Text = "Select me !!xx";
             // 
             // BtnGo
             // 
